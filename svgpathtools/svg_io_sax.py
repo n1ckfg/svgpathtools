@@ -196,3 +196,4 @@ class SaxDocument:
             filename = 'display_temp.svg'
         self.save(filename)
         open_in_browser(filename)
+

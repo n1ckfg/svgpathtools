@@ -199,3 +199,4 @@ def smoothed_path(path, maxjointsize=3, tightness=1.99, ignore_unfixable_kinks=F
         _report_unfixable_kinks(path, sharp_kinks)
 
     return Path(*new_path)
+

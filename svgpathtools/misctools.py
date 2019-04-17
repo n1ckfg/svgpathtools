@@ -62,3 +62,4 @@ BugException = Exception("This code should never be reached.  You've found a "
                          "bug.  Please submit an issue to \n"
                          "https://github.com/mathandy/svgpathtools/issues"
                          "\nwith an easily reproducible example.")
+

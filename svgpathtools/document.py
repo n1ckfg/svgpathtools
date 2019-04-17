@@ -352,3 +352,4 @@ class Document:
             output_svg.write(etree.tostring(self.tree.getroot()))
 
         open_in_browser(filename)
+

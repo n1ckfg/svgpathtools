@@ -441,3 +441,4 @@ def paths2Drawing(paths=None, colors=None,
           viewbox=viewbox, text=text, text_path=text_path, font_size=font_size,
           attributes=attributes, svg_attributes=svg_attributes,
           svgwrite_debug=svgwrite_debug, paths2Drawing=paths2Drawing)
+

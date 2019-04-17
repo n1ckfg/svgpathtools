@@ -298,3 +298,4 @@ def parse_transform(transform_str):
         total_transform = total_transform.dot(_parse_transform_substr(substr))
 
     return total_transform
+

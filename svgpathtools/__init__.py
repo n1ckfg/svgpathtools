@@ -19,3 +19,4 @@ try:
     from .svg_to_paths import svg2paths, svg2paths2
 except ImportError:
     pass
+

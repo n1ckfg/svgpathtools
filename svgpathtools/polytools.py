@@ -78,3 +78,4 @@ def poly_real_part(poly):
 def poly_imag_part(poly):
     """Deprecated."""
     return np.poly1d(poly.coeffs.imag)
+

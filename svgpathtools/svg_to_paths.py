@@ -213,3 +213,4 @@ def svg2paths2(svg_file_location,
                      convert_polylines_to_paths=convert_polylines_to_paths,
                      convert_polygons_to_paths=convert_polygons_to_paths,
                      convert_rectangles_to_paths=convert_rectangles_to_paths)
+
